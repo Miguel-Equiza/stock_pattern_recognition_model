@@ -1,0 +1,15 @@
+sklearn
+pandas 
+numpy 
+os
+scipy
+plotly
+tensorflow 
+yfinance 
+datetime 
+math
+ipywidgets 
+matplotlib
+keras
+random
+pydot
